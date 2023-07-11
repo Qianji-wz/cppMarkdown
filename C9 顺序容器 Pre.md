@@ -135,10 +135,10 @@ iter + n;
 iter1 - iter2;
 iter1 > iter2;
 ```
-deque内部工作原理（右图）
+deque内部工作原理（下图）
 从逻辑上看，deque使用连续的内存空间
 在两端进行插入/删除操作不会移动元素
-![bg right 99%](deque实现原理.png)
+![](img/deque实现原理.png)
 
 ---
 deque容器
